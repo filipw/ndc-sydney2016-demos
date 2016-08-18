@@ -4,6 +4,10 @@ Demos from a talk I did in Sydney at [NDC Sydney 2016](http://ndcsydney.com/talk
 
 Additional demo included a custom build of Omnisharp + Visual Studio :)
 
+### Video
+
+Coming soon
+
 ### Slides
 
 [Click here](http://filipw.github.io/ndcsydney2016)
