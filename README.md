@@ -6,7 +6,7 @@ Additional demo included a custom build of Omnisharp + Visual Studio :)
 
 ### Video
 
-Coming soon
+[Click here](https://vimeo.com/181526452)
 
 ### Slides
 
